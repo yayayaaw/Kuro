@@ -1,0 +1,6 @@
+{
+  "name": "Kuro Specialty Coffee",
+  "description": "Profil bisnis cafe minimalis modern dan elegan dengan kurasi specialty coffee dan ruang yang tenang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
